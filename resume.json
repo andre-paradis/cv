@@ -1,0 +1,245 @@
+{
+  "basics": {
+    "name": "André Paradis",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "andre.paradis@gmail.com",
+    "phone": "(418) 988-1708",
+    "website": "http://registry.jsonresume.org/andreparadis",
+    "summary": "André Paradis is based in Quebec City, Canada, and has earned a bachelor degree in electrical and computer engineering from Université de Sherbrooke in 1996.  M. Paradis started his career at CAE Electronics (www.cae.ca) working on CAE's next generation real-time image generator used in commercial and military full flight simulators.  The work involved the development and testing of 3D rendering algorithms in C++ on unix platforms (SGI Irix, Sun Solaris and linux). In 1999, M. Paradis begun to work primarily in Java on web applications architecture and development at several companies: Telus, Seaquest TI, and Documex.  The work included the development a search engine used for Telus clients web sites, a web content management system based on XML, a railway inspection solution for Documex, and a distributed object middleware and API used to integrate many piece of marine equipments (codar, transponder, intelligent buoy, and others) with a client API available in C#, Java and C++. M. Paradis is now performing consulting engagements for Trafic3w in the architecture and development of line of business web applications for clients like Desjardins General Insurances and the provincial government",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Quebec City",
+      "countryCode": "CA",
+      "region": "Quebec"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "http://ca.linkedin.com/in/aparadis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Trafic3w Inc.",
+      "position": "Senior software engineer",
+      "website": "http://trafic3w.com",
+      "startDate": "2009-11-01",
+      "summary": "Trafic3w is a web development agency providing turn key solutions and consulting services in the area of web application development and digital marketing",
+      "highlights": [
+        "Architected and implemented Desjardins General Insurances web single sign-on solution based on SAML and WS-Federation",
+        "Performed the migration of Desjardins Insurances online services from Sharepoint 2007 to ASP.NET MVC",
+        "Worked on the design and implementation of the Quebec services government web site (https://mondossiercitoyen.gouv.qc.ca) ",
+        "Internal project using MongoDB, React.js, Dropwizard (Java)",
+        ".NET, PHP, Java, Linux, Windows server",
+        "Working on the integration of StateFarm canada online services to Desjardins online services",
+        "REST and SOAP web services development in the new SOA architecture"
+      ]
+    },
+    {
+      "company": "Harris Computer Systems/PG Solutions",
+      "position": "Senior software engineer",
+      "website": "http://www.harriscomputer.com",
+      "startDate": "2005-07-01",
+      "endDate": "2009-11-01",
+      "summary": "PG Solutions provides software solutions for local governments",
+      "highlights": [
+        "Lead the architecture and implementation of PG Solutions SyGED solution, a paper and electronic document management application available on premises and hosted online.",
+        "Lead the architecture and implementation of SyMO, a mobile and web application solutions to optimize the work of nurses performing home care. The solution won 3M innovation grand prize in health care in 2008, and Quebec health agency first prize for excellence in 2009",
+        ".NET, Oracle database, XML, SOAP web services"
+      ]
+    },
+    {
+      "company": "Seaquest Technologies TI",
+      "position": "Senior software engineer",
+      "website": "",
+      "startDate": "2004-04-01",
+      "endDate": "2005-07-01",
+      "summary": "Seaquest developed an integrated marine information systems to be used by ports authorities",
+      "highlights": [
+        "Designed and implemented a distributed object middleware to integrate specialized marine equipments under the same API and object model.",
+        "Helped develop drivers to interface different equipements to the middleware",
+        "Core technologie based on Java, with API available in C#, C++, Java.",
+        "Messages encoded using ASN.1, GML, ZeroC ICE"
+      ]
+    },
+    {
+      "company": "Documex Inc.",
+      "position": "Software engineer",
+      "website": "",
+      "startDate": "2002-10-01",
+      "endDate": "2004-05-01",
+      "summary": "Documex sold a railway inspection system comprised of a mobile client on PocketPC devices, and a web application backend.  ",
+      "highlights": [
+        "Designed a synchronisation protocol between PocketPC and the backend application",
+        "Designed and implemented the rule based engine used to schedule inspection activities.",
+        "Worked on the web interface and report generation",
+        "Interfaced an XML form technology to the solution",
+        "Java, C, MySQL, Jasper Report, Struts, Spring"
+      ]
+    },
+    {
+      "company": "Telus inc.",
+      "position": "Software engineer",
+      "website": "www.telus.ca",
+      "startDate": "1999-02-01",
+      "endDate": "2002-10-01",
+      "summary": "Worked on Telus web development department, providing internal and external web application development services",
+      "highlights": [
+        "Designed and implemented a search engine crawler used in Telus main web site and most of its clients",
+        "Participated in the development of a web content management system based on Java and XML.  The system was comprised of several independents modules: search engine, content publication, stats, mailing lists and others.",
+        "XML, Java, C++"
+      ]
+    },
+        {
+      "company": "ToonBoom Animation Inc.",
+      "position": "Software engineering",
+      "website": "https://www.toonboom.com",
+      "startDate": "1998-12-01",
+      "endDate": "1999-02-01",
+      "summary": "Software development on the USAnimation 2D animation software",
+      "highlights": [
+        "Worked on the scene management module",
+        "Implementation of an undo/redo function"
+      ]
+    },
+    {
+      "company": "CAE Electronics Inc.",
+      "position": "Visual System Engineer",
+      "website": "http://www.cae.ca",
+      "startDate": "1996-12-01",
+      "endDate": "1998-12-01",
+      "summary": "CAE develops and sells full flight simulators for commercial and military clients.  Worked on the real-time image generator used in CAE's full flight sims.",
+      "highlights": [
+        "Researched and implemented a novel color palette compression technique used in the texture processor.",
+        "Implemented test vector generation tools to validate ASIC chips",
+        "Ported 32 bits tools to the 64 bits DEC alpha processor.",
+        "Worked on the software simulation of the image generator to validate and test the system architecture",
+        "C, C++, SGI Irix, Sun Solaris, IBM AIX"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Sherbrooke",
+      "area": "Electrical and computer engineering",
+      "studyType": "Bachelor",
+      "startDate": "1992-09-01",
+      "endDate": "1996-12-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "3M clinical innovation grand prize",
+      "date": "2008-07-01",
+      "awarder": "3M",
+      "summary": "Awarded in recognition of the results achieved with the SyMO software"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "XML/XSLT",
+        "Rails",
+        "Struts",
+        "Spark",
+        "DropWizard",
+        "node.js"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "C#",
+        "C/C++",
+        "Go (golang)",
+        "Objective-C/Swift on IOS",
+        "Ruby",
+        "PHP",
+        "VB.NET",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "Postgresql",
+        "MS SQL Server",
+        "MongoDB",
+        "RethinkDB"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "RabbitMQ",
+        "Redis",
+        "SOAP",
+        "SAML",
+        "WCF",
+        "REST"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Git",
+        "TFS",
+        "VisualStudio",
+        "Eclipse",
+        "IntelliJ",
+        "Lots of other tools"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "complete working capacity"
+    },
+    {
+      "language": "French",
+      "fluency": "native language"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "distributed systems",
+        "web architecture",
+        "security",
+        "API Design"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Running",
+        "Snowboarding",
+        "Swimming"
+      ]
+    }
+  ],
+  "references": []
+}
