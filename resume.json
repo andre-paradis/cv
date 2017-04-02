@@ -4,9 +4,9 @@
     "label": "Senior Software Engineer",
     "picture": "",
     "email": "andre.paradis@gmail.com",
-    "phone": "(418) 988-1708",
+    "phone": "(418) 576-3089",
     "website": "http://registry.jsonresume.org/andreparadis",
-    "summary": "André Paradis is based in Quebec City, Canada, and has earned a bachelor degree in electrical and computer engineering from Université de Sherbrooke in 1996.  M. Paradis started his career at CAE Electronics (www.cae.ca) working on CAE's next generation real-time image generator used in commercial and military full flight simulators.  The work involved the development and testing of 3D rendering algorithms in C++ on unix platforms (SGI Irix, Sun Solaris and linux). In 1999, M. Paradis begun to work primarily in Java on web applications architecture and development at several companies: Telus, Seaquest TI, and Documex.  The work included the development a search engine used for Telus clients web sites, a web content management system based on XML, a railway inspection solution for Documex, and a distributed object middleware and API used to integrate many piece of marine equipments (codar, transponder, intelligent buoy, and others) with a client API available in C#, Java and C++. M. Paradis is now performing consulting engagements for Trafic3w in the architecture and development of line of business web applications for clients like Desjardins General Insurances and the provincial government",
+    "summary": "André Paradis is based in Quebec City, Canada, and has earned a bachelor degree in electrical and computer engineering from Université de Sherbrooke in 1996.  M. Paradis started his career at CAE Electronics (www.cae.ca) working on CAE's next generation real-time image generator used in commercial and military full flight simulators.  The work involved the development and testing of 3D rendering algorithms in C++ on unix platforms (SGI Irix, Sun Solaris and linux). In 1999, M. Paradis begun to work primarily in Java on web applications architecture and development at several companies: Telus, Seaquest TI, and Documex.  The work included the development a search engine used for Telus clients web sites, a web content management system based on XML, a railway inspection solution for Documex, and a distributed object middleware and API used to integrate many piece of marine equipments (codar, transponder, intelligent buoy, and others) with a client API available in C#, Java and C++. M. Paradis has performed consulting engagements for Trafic3w in the architecture and development of line of business web applications for clients like Desjardins General Insurances and the provincial government. Since late 2015, M. Paradis is leading a team of software engineers at Olympus, delivering a cloud based solution to build/support and collect data from scientific instruments",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,14 +23,30 @@
     ]
   },
   "work": [
+      {
+      "company": "Olympus",
+      "position": "Software Engineering Lead",
+      "website": "http://olympus-ims.com",
+      "startDate": "2015-12-14",
+      "summary": "Sotware engineering lead for the cloud software development team",
+      "highlights": [
+        "Architecture and implementation of REST based APIs used by websites and IoT devices and mobile apps",
+        "Implementation of the frontend tech stack (angularjs, webpack, kendo ui)",
+        "Architecture and implementation of a web application handling device manufacturing workflows",
+        "Architecture and implementation of a new customer website for device fleet managment, device data managment and other advanced features",
+        "All solutions architected around Microsoft Azure PAAS: Service Bus, App Service, API Manager, DocumentDB, SQL Server, Azure AD and AD B2C"
+      ]
+    },
     {
       "company": "Trafic3w Inc.",
       "position": "Senior software engineer",
       "website": "http://trafic3w.com",
       "startDate": "2009-11-01",
+      "endDate": "2015-12-14",
       "summary": "Trafic3w is a web development agency providing turn key solutions and consulting services in the area of web application development and digital marketing",
       "highlights": [
         "Architected and implemented Desjardins General Insurances web single sign-on solution based on SAML and WS-Federation",
+        "Worked on online services software integration between StateFarm Canada and Desjardins (front-end, backend)",
         "Performed the migration of Desjardins Insurances online services from Sharepoint 2007 to ASP.NET MVC",
         "Worked on the design and implementation of the Quebec services government web site (https://mondossiercitoyen.gouv.qc.ca) ",
         "Internal project using MongoDB, React.js, Dropwizard (Java)",
@@ -40,7 +56,7 @@
       ]
     },
     {
-      "company": "Harris Computer Systems/PG Solutions",
+      "company": "Harris Computer Systems",
       "position": "Senior software engineer",
       "website": "http://www.harriscomputer.com",
       "startDate": "2005-07-01",
@@ -150,14 +166,14 @@
       "keywords": [
         "HTML5",
         "CSS",
-        "Javascript",
-        "JQuery",
+        "Javascript: angular, react, webpack, jquery and others",
         "XML/XSLT",
         "Rails",
-        "Struts",
-        "Spark",
+        "Spring",
         "DropWizard",
-        "node.js"
+        "node.js",
+        "ASP.NET MVC Core",
+        "Ionic/Cordova"
       ]
     },
     {
@@ -166,31 +182,32 @@
       "keywords": [
         "Java",
         "C#",
+        "JavaScript",
         "C/C++",
         "Go (golang)",
         "Objective-C/Swift on IOS",
         "Ruby",
         "PHP",
-        "VB.NET",
-        "JavaScript"
+        "VB.NET"
       ]
     },
     {
       "name": "Databases",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "Oracle",
         "MySQL",
         "Postgresql",
         "MS SQL Server",
         "MongoDB",
-        "RethinkDB"
+        "MS DocumentDb"
       ]
     },
     {
       "name": "Others",
-      "level": "",
+      "level": "Master",
       "keywords": [
+        "Azure PAAS(service bus, app service, cloud service and others",
         "RabbitMQ",
         "Redis",
         "SOAP",
@@ -201,14 +218,14 @@
     },
     {
       "name": "Tools",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "Git",
         "TFS",
-        "VisualStudio",
+        "Visual Studio",
         "Eclipse",
         "IntelliJ",
-        "Lots of other tools"
+        "Lots of others"
       ]
     }
   ],
